@@ -14,7 +14,7 @@
         "@expo/vector-icons": "^8.1.0",
         "@types/expo": "^30.0.0",
         "d3-shape": "^1.2.2",
-        "expo": "^31.0.4",
+        "expo": "^46.0.16",
         "i18next": "^11.9.0",
         "moment": "^2.22.2",
         "native-base": "^2.10.0",
